@@ -1,4 +1,4 @@
 # NavigationDrawer
-Navigation Drawer implemmented using Activities instead of Fragments. Android Studio. 
+Navigation Drawer implemmented in all Activities instead of Fragments. Android Studio. 
 
 Problem when backpressed it will not go back to the home.
